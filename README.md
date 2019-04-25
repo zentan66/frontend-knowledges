@@ -29,11 +29,16 @@
 
 [InfoQ](https://www.infoq.cn/)
 
+### Node
+[如何正确的学习Nodejs](https://cnodejs.org/topic/5ab3166be7b166bb7b9eccf7)
+
 ## 工具篇
 
 #### 正则表达式
 
 [Rubular正则在线测试](https://rubular.com/)
+
+[正则表达式在线测试](https://www.regexpal.com/)
 
 #### JS
 
