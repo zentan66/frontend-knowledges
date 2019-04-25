@@ -28,6 +28,10 @@
 
 
 
+### JavaScript
+
+- [手写代码无敌秘籍](https://juejin.im/post/5c9c3989e51d454e3a3902b6?tdsourcetag=s_pcqq_aiomsg)
+
 ### VUE
 
 #### 源码解析
@@ -55,6 +59,14 @@
 [深入浅出webpack](http://webpack.wuhaolin.cn/)
 
 [webpack原理解析](https://segmentfault.com/a/1190000015088834?utm_source=tag-newest)
+
+[webpck compiler hooks](https://webpack.js.org/api/compiler-hooks/)
+
+[webpack概述](https://www.jqhtml.com/7454.html)
+
+[细说webpack流程](http://www.cnblogs.com/yxy99/p/5852987.html)
+
+[webpack源码分析](https://zhuanlan.zhihu.com/p/29551683)
 
 
 
