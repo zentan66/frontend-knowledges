@@ -28,3 +28,13 @@
 ## 咨询信息篇
 
 [InfoQ](https://www.infoq.cn/)
+
+## 工具篇
+
+#### 正则表达式
+
+[Rubular正则在线测试](https://rubular.com/)
+
+#### JS
+
+[AST树可视化](https://astexplorer.net/)
