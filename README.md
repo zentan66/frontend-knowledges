@@ -56,6 +56,8 @@
 
 ### webpack
 
+[webpack中文官网](https://webpack.docschina.org/)
+
 [深入浅出webpack](http://webpack.wuhaolin.cn/)
 
 [webpack原理解析](https://segmentfault.com/a/1190000015088834?utm_source=tag-newest)
@@ -67,6 +69,10 @@
 [细说webpack流程](http://www.cnblogs.com/yxy99/p/5852987.html)
 
 [webpack源码分析](https://zhuanlan.zhihu.com/p/29551683)
+
+[来自surviejs的webpack英文电子书](https://survivejs.com/webpack/foreword/)
+
+[webpack官方博客](https://medium.com/webpack)
 
 
 
