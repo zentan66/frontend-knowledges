@@ -30,10 +30,10 @@
 
 ### JavaScript
 
-- [手写代码无敌秘籍](https://juejin.im/post/5c9c3989e51d454e3a3902b6?tdsourcetag=s_pcqq_aiomsg)
+[手写代码无敌秘籍](https://juejin.im/post/5c9c3989e51d454e3a3902b6?tdsourcetag=s_pcqq_aiomsg)
 
 #### 执行机制
-- [node和浏览器的EventLoop](http://www.ruanyifeng.com/blog/2014/10/event-loop.html)
+[node和浏览器的EventLoop](http://www.ruanyifeng.com/blog/2014/10/event-loop.html)
 
 ### VUE
 
@@ -43,7 +43,9 @@
 
 [响应式原理](https://segmentfault.com/a/1190000018659640?tdsourcetag=s_pcqq_aiomsg)
 
+### 网络
 
+[Fetch Standard](https://fetch.spec.whatwg.org/)
 
 ### 正则表达式
 
