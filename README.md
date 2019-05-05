@@ -32,6 +32,9 @@
 
 - [手写代码无敌秘籍](https://juejin.im/post/5c9c3989e51d454e3a3902b6?tdsourcetag=s_pcqq_aiomsg)
 
+#### 执行机制
+- [node和浏览器的EventLoop](http://www.ruanyifeng.com/blog/2014/10/event-loop.html)
+
 ### VUE
 
 #### 源码解析
