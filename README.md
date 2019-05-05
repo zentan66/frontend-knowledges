@@ -35,6 +35,8 @@
 #### 执行机制
 [node和浏览器的EventLoop](http://www.ruanyifeng.com/blog/2014/10/event-loop.html)
 
+[解析AST以及优化技巧](https://segmentfault.com/a/1190000015640488)
+
 ### VUE
 
 #### 源码解析
