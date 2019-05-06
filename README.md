@@ -37,6 +37,8 @@
 
 [解析AST以及优化技巧](https://segmentfault.com/a/1190000015640488)
 
+[javascript对象属性底层原理](https://www.cnblogs.com/full-stack-engineer/p/9684072.html)
+
 ### VUE
 
 #### 源码解析
