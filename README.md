@@ -98,6 +98,10 @@
 
 ## 工具篇
 
+#### HTML
+
+[HTML文件检验](https://validator.w3.org/nu/#file)
+
 #### 正则表达式
 
 [Rubular正则在线测试](https://rubular.com/)
