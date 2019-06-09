@@ -28,6 +28,8 @@
 
 [可放缩矢量图svg不完全教程](http://topic.30ke.cn/svg)
 
+[资源](https://github.com/windiest/Front-end-tutorial)
+
 ### CSS
 [CSS动画性能分析与浏览器GPU加速](https://juejin.im/post/5bd947326fb9a0226924ad77#heading-0)
 
@@ -42,6 +44,14 @@
 
 [javascript对象属性底层原理](https://www.cnblogs.com/full-stack-engineer/p/9684072.html)
 
+#### 运行环境
+
+[图解浏览器的基本工作原理](<https://zhuanlan.zhihu.com/p/47407398>)
+
+[结合源码分析Node模块](<https://efe.baidu.com/blog/nodejs-module-analyze/>)
+
+[大前端开发者需要了解的基础编译原理和语言知识]([http://fullstack.blog/2017/06/24/%E5%A4%A7%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E8%80%85%E9%9C%80%E8%A6%81%E4%BA%86%E8%A7%A3%E7%9A%84%E5%9F%BA%E7%A1%80%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%E5%92%8C%E8%AF%AD%E8%A8%80%E7%9F%A5%E8%AF%86/](http://fullstack.blog/2017/06/24/大前端开发者需要了解的基础编译原理和语言知识/))
+
 ### VUE
 
 ##### 源码解析
@@ -53,6 +63,10 @@
 ### 网络
 
 [Fetch Standard](https://fetch.spec.whatwg.org/)
+
+#### TypeScript
+
+[TypeScript Handbook](https://zhongsp.gitbooks.io/typescript-handbook/content/)
 
 ### 正则表达式
 
