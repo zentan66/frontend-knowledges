@@ -21,6 +21,20 @@
 
 [microjs](http://microjs.com/#)：一个精简的选择微型js库的网站
 
+[最全前端资源](https://www.jeffjade.com/2016/03/30/104-front-end-tutorial/)
+
+[Github资源收集](https://segmentfault.com/a/1190000003510001)
+
+[英文资源网站](http://get.ftqq.com/697.get)
+
+[github上最值得关注的前端项目](https://segmentfault.com/a/1190000002804472#articleHeader7)
+
+[前端收藏夹](http://collect.w3ctrain.com/)
+
+[可放缩矢量图svg不完全教程](http://topic.30ke.cn/svg)
+
+[资源](https://github.com/windiest/Front-end-tutorial)
+
 ### CSS
 | A                                                            | B    |
 | ------------------------------------------------------------ | ---- |
@@ -33,6 +47,14 @@
 | [手写代码无敌秘籍](https://juejin.im/post/5c9c3989e51d454e3a3902b6?tdsourcetag=s_pcqq_aiomsg) | [node和浏览器的EventLoop](http://www.ruanyifeng.com/blog/2014/10/event-loop.html) |
 | [解析AST以及优化技巧](https://segmentfault.com/a/1190000015640488) | [javascript对象属性底层原理](https://www.cnblogs.com/full-stack-engineer/p/9684072.html) |
 
+#### 运行环境
+
+[图解浏览器的基本工作原理](<https://zhuanlan.zhihu.com/p/47407398>)
+
+[结合源码分析Node模块](<https://efe.baidu.com/blog/nodejs-module-analyze/>)
+
+[大前端开发者需要了解的基础编译原理和语言知识]([http://fullstack.blog/2017/06/24/%E5%A4%A7%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E8%80%85%E9%9C%80%E8%A6%81%E4%BA%86%E8%A7%A3%E7%9A%84%E5%9F%BA%E7%A1%80%E7%BC%96%E8%AF%91%E5%8E%9F%E7%90%86%E5%92%8C%E8%AF%AD%E8%A8%80%E7%9F%A5%E8%AF%86/](http://fullstack.blog/2017/06/24/大前端开发者需要了解的基础编译原理和语言知识/))
+
 ### VUE
 
 | A                                                            | B                                                            |
@@ -42,6 +64,10 @@
 ### 网络
 
 [Fetch Standard](https://fetch.spec.whatwg.org/)
+
+#### TypeScript
+
+[TypeScript Handbook](https://zhongsp.gitbooks.io/typescript-handbook/content/)
 
 ### 正则表达式
 
