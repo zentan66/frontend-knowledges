@@ -119,3 +119,84 @@
 #### 服务器
 
 [亿速云](https://www.yisu.com/cloud)
+
+### 语言基础
+
+- [📚]`JavaScript`高级程序设计（必看）：[https://book.douban.com/subje...](https://book.douban.com/subject/10546125/)
+- [📚]高性能`JavaScript`：[https://book.douban.com/subje...](https://book.douban.com/subject/5362856/)
+- 现代`JavaScript`教程：https://zh.javascript.info/
+- 阮一峰的`ECMAScript 6`教程：http://es6.ruanyifeng.com/
+- `ECMAScript 6`标准：[https://www.ecma-internationa...](https://www.ecma-international.org/ecma-262/6.0/)
+- `HTML meta`标签总结与属性使用介绍：[https://segmentfault.com/a/11...](https://segmentfault.com/a/1190000004279791)
+- `CSS`编码指导：[https://github.com/chadluo/CS...](https://github.com/chadluo/CSS-Guidelines/blob/master/README.md)
+
+### 计算机基础
+
+- 大前端开发者需要了解的基础编译原理和语言知识：[http://fullstack.blog/2017/06...](http://fullstack.blog/2017/06/24/大前端开发者需要了解的基础编译原理和语言知识)
+- 图解`HTTP`：[https://book.douban.com/subje...](https://book.douban.com/subject/25863515/)
+- [📚]`JavaScript`设计模式与开发实践：[https://book.douban.com/subje...](https://book.douban.com/subject/26382780/)
+- 正则表达式30分钟入门教程：[https://link.juejin.im/?targe...](https://link.juejin.im/?target=https%3A%2F%2Fdeerchao.net%2Ftutorials%2Fregex%2Fregex.htm)
+
+### 数据结构和算法
+
+- 数据结构与算法之美：[https://time.geekbang.org/col...](https://time.geekbang.org/column/intro/126)
+- 用动画的形式呈现解`LeetCode`题目的思路：[https://github.com/MisterBooo...](https://github.com/MisterBooo/LeetCodeAnimation)
+- `JavaScript`数据结构和算法：[https://github.com/ConardLi/a...](https://github.com/ConardLi/awesome-coding-js)
+- `30-seconds-of-code`（里面有很多`js`代码非常巧妙，我正在将它翻译成中文）：[https://github.com/ConardLi/3...](https://github.com/ConardLi/30-seconds-of-code-Zh-CN)
+
+### 运行环境
+
+- 《重学前端》中的浏览器原理章节：[https://time.geekbang.org/col...](https://time.geekbang.org/column/article/80240)
+- 图解浏览器的基本工作原理：[https://zhuanlan.zhihu.com/p/...](https://zhuanlan.zhihu.com/p/47407398)
+- 七天学会`NodeJS`：[https://github.com/nqdeng/7-d...](https://github.com/nqdeng/7-days-nodejs)
+- `Node.js`模块加载与运行原理：[https://efe.baidu.com/blog/no...](https://efe.baidu.com/blog/nodejs-module-analyze/)
+
+### 框架和类库
+
+- `TypeScript Handbook`：[https://zhongsp.gitbooks.io/t...](https://zhongsp.gitbooks.io/typescript-handbook/content/)
+- `React.js`小书：[http://huziketang.mangojuice....](http://huziketang.mangojuice.top/books/react/)
+- `React`深入系列：[https://juejin.im/post/5cad39...](https://juejin.im/post/5cad39b3f265da03502b1c0a)
+- `Webpack React`小书：[https://fakefish.github.io/re...](https://fakefish.github.io/react-webpack-cookbook/index.html)
+- `Vue.js`技术揭秘：[https://github.com/ustbhuangy...](https://github.com/ustbhuangyi/vue-analysis)
+- `Vuex`-在`Vue`中管理状态：[https://sabe.io/tutorials/get...](https://sabe.io/tutorials/getting-started-with-vuex)
+- 你需要`Mobx`还是`Redux`？：[https://juejin.im/post/5a7fd7...](https://juejin.im/post/5a7fd72c5188257a766324ae)
+- `Underscore`源码分析：[https://yoyoyohamapi.gitbooks...](https://yoyoyohamapi.gitbooks.io/undersercore-analysis/content/)
+- 微信小程序开发资源汇总：[https://github.com/justjavac/...](https://github.com/justjavac/awesome-wechat-weapp)
+- 腾讯移动` Web `前端知识库：[https://github.com/AlloyTeam/...](https://github.com/AlloyTeam/Mars)
+
+### 前端工程
+
+- 一口（很长的）气了解`babel`：[https://zhuanlan.zhihu.com/p/...](https://zhuanlan.zhihu.com/p/43249121)
+- `Webpack`傻瓜式指南：[https://zhuanlan.zhihu.com/p/...](https://zhuanlan.zhihu.com/p/20367175)
+- `Webpack`原理：[https://segmentfault.com/a/11...](https://segmentfault.com/a/1190000015088834?utm_source=tag-newest)
+- 廖雪峰的`git`教程：[https://www.liaoxuefeng.com/w...](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+- 图解`Git`：[https://marklodato.github.io/...](https://marklodato.github.io/visual-git-guide/index-zh-cn.html)
+- 前端开发者必备的`Nginx`知识：[https://juejin.im/post/5c85a6...](https://juejin.im/post/5c85a64d6fb9a04a0e2e038c)
+- 使用Jenkins进行持续集成：[https://www.liaoxuefeng.com/a...](https://www.liaoxuefeng.com/article/001463233913442cdb2d1bd1b1b42e3b0b29eb1ba736c5e000)
+
+### 项目和业务
+
+- 常见六大`Web`安全攻防解析：[https://github.com/ljianshu/B...](https://github.com/ljianshu/Blog/issues/56)
+- 深入理解前端性能监控：[https://juejin.im/post/5caaac...](https://juejin.im/post/5caaacc0e51d452b45296487#heading-5)
+- [📚]高性能网站建设指南：[https://book.douban.com/subje...](https://book.douban.com/subject/3132277/)
+- 新人如何快速融入技术实力强的前端团队：[https://juejin.im/post/5cb860...](https://juejin.im/post/5cb860a86fb9a06890705f14)
+
+### 学习提升
+
+- 印记中文（各种中文开发文档）：https://www.docschina.org/
+- 前端学习方法：[https://github.com/helloqingf...](https://github.com/helloqingfeng/Awsome-Front-End-learning-resource/tree/master/01-FE-learning-master)
+- 如何在工作内外获得持续的技术成长：[https://juejin.im/post/5cbd74...](https://juejin.im/post/5cbd7477f265da039d32834e)
+- 优秀的前端博客汇总：[https://github.com/foru17/fro...](https://github.com/foru17/front-end-collect)
+
+### 博客
+
+- 冴羽的博客：[https://github.com/mqyqingfen...](https://github.com/mqyqingfeng/Blog)
+- 张鑫旭的博客：[https://www.zhangxinxu.com/wo...](https://www.zhangxinxu.com/wordpress/)
+- 左耳朵耗子：https://coolshell.cn/
+
+### 技术以外
+
+- 互联网术语大全：[https://www.jianshu.com/p/9a7...](https://www.jianshu.com/p/9a7ca206c1ab)
+- 互联网沟通、问答、学习的艺术：[https://zhuanlan.zhihu.com/p/...](https://zhuanlan.zhihu.com/p/41431775)
+- 经常加班至深夜，怎样才能保持身体健康：[https://www.zhihu.com/questio...](https://www.zhihu.com/question/21790919)
+
